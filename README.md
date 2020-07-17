@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on any open-sourced project
 - 🤔 I’m looking for help with DropDownMenu height adjustments in Flutter
 - 💬 Ask me about Flutter and techy stuff
-- 📫 How to reach me: twitter.com/iizmotabar 
+- 📫 How to reach me: Twitter- @iizmotabar
 - 😄 Pronouns: he/his
 - ⚡ Fun fact: Learning a lot these days :P
 -->
