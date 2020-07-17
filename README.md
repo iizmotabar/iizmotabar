@@ -10,7 +10,7 @@
 - 💬 Ask me about Flutter and techy stuff
 - 📫 How to reach me: [Twitter - @iizmotabar](twitter.com/iizmotabar)
 - 😄 Pronouns: he/his
-- ⚡ Fun fact: Learning a lot these days :P
+- ⚡ Fun fact: Learning a lot these days 😄
 
 
 
