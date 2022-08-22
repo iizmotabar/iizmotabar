@@ -8,7 +8,7 @@ jobs:
         runs-on: ubuntu-latest
         steps: 
             - uses: actions/checkout@v2
-            - uses: iizmotabar/.github/blog-post-workflow
+            - uses: iizmotabar/blog-post-workflow@master
               with: 
                 max_post_count: "4"
-                feed_list: "https://dev.to/feed/iizmotabar, https://medium.com/feed/iizmotabar"
+                feed_list: "https://medium.com/feed/iizmotabar"
