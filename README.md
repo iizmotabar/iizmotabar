@@ -29,6 +29,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
@@ -47,7 +48,7 @@
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iizmotabar&show_icons=true&locale=en&layout=compact" alt="iizmotabar" /></p>
-<span> </span>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iizmotabar&show_icons=true&locale=en" alt="iizmotabar" /></p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iizmotabar" alt="iizmotabar" /></a> </p>
