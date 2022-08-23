@@ -29,7 +29,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-
+- [Getting Started with Git and Github](https://dev.to/iizmotabar/getting-started-with-git-and-github-45ik)
+- [Getting Started with Git and Github](https://iizmotabar.medium.com/getting-started-with-git-and-github-49be735da952?source=rss-924f9f19f782------2)
+- [Flutter UI Series: WhatsApp Clone](https://dev.to/iizmotabar/flutter-ui-series-whatsapp-clone-51e1)
+- [Flutter UI Series: WhatsApp UI](https://iizmotabar.medium.com/flutter-ui-series-whatsapp-ui-4451eca699b6?source=rss-924f9f19f782------2)
+- [Flutter 2.5: What changes does it bring?](https://dev.to/iizmotabar/flutter-2-5-what-changes-does-it-bring-c94)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
