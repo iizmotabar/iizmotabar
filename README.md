@@ -25,7 +25,7 @@
 
 - 📫 How to reach me **motabar.javaid@gmail.com**
 
-- ⚡ Fun fact **I play guitar 🎸 and play football⚽**
+- ⚡ Fun fact **I play guitar🎸 and play football⚽**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
