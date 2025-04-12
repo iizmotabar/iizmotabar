@@ -28,9 +28,9 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Building Automated Dashboards with BigQuery and Looker Studio](https://www.linkedin.com/posts/iizmotabar_dataengineering-ga4-bigquery-activity-7302674213264408577-ecyG?utm_source=share&utm_medium=member_desktop&rcm=ACoAAC3L1m0BLjQqWOhml2xiKD_OrmTvFLI2pxY)
+- [Enriching HubSpot Data Using GA4 and Custom Attribution](https://www.linkedin.com/posts/iizmotabar_imagine-doing-attribution-manually-in-google-activity-7316822412497453057-5K5R?utm_source=share&utm_medium=member_desktop&rcm=ACoAAC3L1m0BLjQqWOhml2xiKD_OrmTvFLI2pxY)
 - [GA4 + GSC: Connecting Keyword Impact to Conversions](https://iizmotabar.medium.com/ga4-gsc-keyword-impact-analysis)
-- [Building Automated Dashboards with BigQuery and Looker Studio](https://iizmotabar.medium.com/dashboard-automation-bq-looker)
-- [Enriching HubSpot Data Using GA4 and Custom Attribution](https://iizmotabar.medium.com/hubspot-attribution-ga4)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
