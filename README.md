@@ -28,9 +28,11 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building Automated Dashboards with BigQuery and Looker Studio](https://www.linkedin.com/posts/iizmotabar_dataengineering-ga4-bigquery-activity-7302674213264408577-ecyG?utm_source=share&utm_medium=member_desktop&rcm=ACoAAC3L1m0BLjQqWOhml2xiKD_OrmTvFLI2pxY)
-- [Enriching HubSpot Data Using GA4 and Custom Attribution](https://www.linkedin.com/posts/iizmotabar_imagine-doing-attribution-manually-in-google-activity-7316822412497453057-5K5R?utm_source=share&utm_medium=member_desktop&rcm=ACoAAC3L1m0BLjQqWOhml2xiKD_OrmTvFLI2pxY)
-- [GA4 + GSC: Connecting Keyword Impact to Conversions](https://iizmotabar.medium.com/ga4-gsc-keyword-impact-analysis)
+- [FlutterFire: Authentication Made Easy](https://iizmotabar.medium.com/flutterfire-authentication-made-easy-dad68d48a09b?source=rss-924f9f19f782------2)
+- [Demystifying Dart: Execution Thread &amp; Dart Call Stack](https://iizmotabar.medium.com/demystifying-dart-execution-thread-dart-call-stack-bc75593d978d?source=rss-924f9f19f782------2)
+- [Flutter 3.3: What’s New?](https://iizmotabar.medium.com/flutter-3-3-whats-new-9127cefd1d6f?source=rss-924f9f19f782------2)
+- [Getting Started with Git and Github](https://iizmotabar.medium.com/getting-started-with-git-and-github-49be735da952?source=rss-924f9f19f782------2)
+- [Flutter UI Series: WhatsApp UI](https://iizmotabar.medium.com/flutter-ui-series-whatsapp-ui-4451eca699b6?source=rss-924f9f19f782------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
